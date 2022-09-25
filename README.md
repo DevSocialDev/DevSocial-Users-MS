@@ -29,3 +29,8 @@ Micro-service for handling user-oriented activities
         ├── kafka
         └── utils
 ```
+
+### System Design
+V - 0.1
+
+![DevSocialSystemDesign](https://user-images.githubusercontent.com/58564635/192140565-48a7a0b9-3b8f-4d8d-bd61-3f82169ad27a.png)
